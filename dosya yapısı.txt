@@ -1,0 +1,15 @@
+ultra_liquidation_bot/
+├── 📄 main.py
+├── 📄 requirements.txt
+├── 📄 config.py
+├── 📄 constants.py
+├── 📁 data/
+│   └── 📄 __init__.py
+├── 📁 analysis/
+│   └── 📄 __init__.py
+├── 📁 trading/
+│   └── 📄 __init__.py
+├── 📁 alerts/
+│   └── 📄 __init__.py
+└── 📁 utils/
+    └── 📄 __init__.py
